@@ -51,15 +51,17 @@
 	<!-- Home Section -->
 	<section id="home" class="tt-fullHeight" data-stellar-vertical-offset="50" data-stellar-background-ratio="0.2">
 		<div class="intro">
-			<div class="intro-sub">I am Juan Arturo Palomo Correa</div>
-			<h1>Frontend <span>Developer</span></h1>
+			<div class="intro-sub">I am X</div>
+			<h1>Creative <span>Designer</span></h1>
 			<p>I am a fully professional freelance creative User Interface Designer &amp; Developer<br> Involving with latest web designing and technologies is a great <br> feel free to contact creative.</p>
 
       <div class="social-icons">
         <ul class="list-inline">
-          <li><a href="https://facebook.com/juanarturo.palomocorrea"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="https://twitter.com/knavishCardenas"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="https://mx.linkedin.com/in/arturopc"><i class="fa fa-linkedin"></i></a></li>
+          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fa fa-behance"></i></a></li>
+          <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+          <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
         </ul>
       </div> <!-- /.social-icons -->
 		</div>
@@ -115,12 +117,12 @@
                 <img src="assets/images/myphoto.jpg" alt="">
               </div>
               <ul>
-                <li><strong>Name:</strong> Juan Arturo Palomo Correa</li>
-                <li><strong>Date of birth:</strong> 22 May 1990</li>
-                <li><strong>Address:</strong> S.L.P., México</li>
-                <li><strong>Nationality:</strong> Mexican</li>
-                <li><strong>Phone:</strong> (044) 444 301 5121</li>
-                <li><strong>Email:</strong> arturo.palomo@nakva.mx</li>
+                <li><strong>Name:</strong> John Doe</li>
+                <li><strong>Date of birth:</strong> 05 Dec 1993</li>
+                <li><strong>Address:</strong> 239/2 Awesome Street, USA</li>
+                <li><strong>Nationality:</strong> American</li>
+                <li><strong>Phone:</strong> (000) 1234 56789</li>
+                <li><strong>Email:</strong> yourmail@iamx.com</li>
               </ul>
             </div>
           </div> <!-- col-md-4 -->
@@ -800,7 +802,8 @@
                 <i class="fa fa-map-marker"></i>
                 <address>
                   <strong>Address/Street</strong>
-		  S.L.P., México
+                  239/2 Awesome Street,<br>
+                  Boston, USA<br>
                 </address>
               </div>
 
@@ -808,7 +811,8 @@
                 <i class="fa fa-mobile"></i>
                 <div class="contact-number">
                   <strong>Phone Number</strong>
-                  (044) 444 301 5121<br>
+                  (001) 0123 111222<br>
+                  (001) 0123 333444
                 </div>
               </div>
             </div>
@@ -833,7 +837,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="copyright text-center">
-              <p>&copy; Nakva 2016. All rights reserved.</p>
+              <p>&copy; TrendyTheme 2015. All rights reserved.</p>
             </div>
           </div>
         </div>
@@ -860,7 +864,7 @@
   <script src="assets/js/jquery.magnific-popup.min.js"></script>
   <script src="http://a.vimeocdn.com/js/froogaloop2.min.js"></script>
   <script src="assets/js/jquery.fitvids.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?v=3.exkva.mx&amp;sensor=false"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
   <script src="assets/js/scripts.js"></script>
 </body>
 </html>
